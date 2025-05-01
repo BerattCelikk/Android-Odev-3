@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <?xml version="1.0" encoding="utf-8"?>
+
+    <!-- Color definitions -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pidebackground">#FF9800</color>
+    <color name="oburleri">#636363</color>
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.KardeslerPide" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here -->
+        <!-- örnek: <item name="colorPrimary">@color/pidebackground</item> -->
+    </style>
+</resources>
